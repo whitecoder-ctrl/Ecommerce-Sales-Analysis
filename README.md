@@ -27,4 +27,4 @@ This analysis uncovered significant insights into the company's financial perfor
 3.  **Regional Policy Review:** Conduct an immediate review of the sales strategy and discount policies in the **Central Region**.
 
 ## 🚀 How to View
-You can view the complete analysis by opening the `e-commerse.ipynb` notebook file in this repository.
+You can view the complete analysis by opening the `e-commerce.ipynb` notebook file in this repository.
